@@ -1,0 +1,10 @@
+E:\資料庫程式設計\Chapter 3 CSharp\bin\Debug\Chapter 3 CSharp.exe
+E:\資料庫程式設計\Chapter 3 CSharp\bin\Debug\Chapter 3 CSharp.pdb
+E:\資料庫程式設計\Chapter 3 CSharp\obj\x86\Debug\Chapter 3 CSharp.csprojAssemblyReference.cache
+E:\資料庫程式設計\Chapter 3 CSharp\obj\x86\Debug\Chapter_3_CSharp.AccountDetail.resources
+E:\資料庫程式設計\Chapter 3 CSharp\obj\x86\Debug\Chapter_3_CSharp.AccountManager.resources
+E:\資料庫程式設計\Chapter 3 CSharp\obj\x86\Debug\Chapter_3_CSharp.Properties.Resources.resources
+E:\資料庫程式設計\Chapter 3 CSharp\obj\x86\Debug\Chapter 3 CSharp.csproj.GenerateResource.cache
+E:\資料庫程式設計\Chapter 3 CSharp\obj\x86\Debug\Chapter 3 CSharp.csproj.CoreCompileInputs.cache
+E:\資料庫程式設計\Chapter 3 CSharp\obj\x86\Debug\Chapter 3 CSharp.exe
+E:\資料庫程式設計\Chapter 3 CSharp\obj\x86\Debug\Chapter 3 CSharp.pdb
